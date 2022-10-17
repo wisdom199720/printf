@@ -1,4 +1,4 @@
-
+#include "main.h"
 
 /**
  * print_hex - print unsigned hex numbers in lowercase
